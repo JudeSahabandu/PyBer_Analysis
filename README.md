@@ -96,9 +96,9 @@ The following recommendations are a starting point to balance demand and supply 
 
 #### Improve demand in rural and suburban ridership
 
-Total Ridership (Rural) - 125 Rides
-Total Ridership (Suburban) - 625 Rides
-Total Ridership (Urban) - 1,625 Rides
+1. Total Ridership (Rural) - 125 Rides
+2. Total Ridership (Suburban) - 625 Rides
+3. Total Ridership (Urban) - 1,625 Rides
 
 A key contributor to our analysis is to understand the population data across the selected regions. Based on the overall population, if we can determine the proportion of ridership, we may see that ride sharing services offered through Pyber may be underutilized.
 
@@ -108,9 +108,9 @@ In the case of lack of awareness, we could consider running a few promotional ca
 
 #### Open up the market for drivers to serve cross regionally
 
-Total Drivers (Rural) - 78 Drivers
-Total Drivers (Suburban) - 490 Drivers
-Total Drivers (Urban) - 2,405 Drivers
+1. Total Drivers (Rural) - 78 Drivers
+2. Total Drivers (Suburban) - 490 Drivers
+3. Total Drivers (Urban) - 2,405 Drivers
 
 Drivers may be isolated to serving markets regionally, over restriction may curtail supply where drivers seek to provide their services only in regions which they deem to be most beneficial.
 
@@ -118,9 +118,9 @@ If drivers can provide rides across adjoining regions, we will be able to fix th
 
 #### Incentivize drivers to serve rural and suburban markets
 
-Average Fare (Rural) - Per Driver is $USD 55.49
-Average Fare (Suburban) - Per Driver is $USD 39.50
-Average Fare (Urban) - Per Driver is $USD 16.57
+1. Average Fare (Rural) - Per Driver is $USD 55.49
+2. Average Fare (Suburban) - Per Driver is $USD 39.50
+3. Average Fare (Urban) - Per Driver is $USD 16.57
 
 There are significant differences seen across average ride fare by city type. A Rural Driver on average earns upwards of 3 times that of an Urban Driver. The higher earning potential may be a useful tool to entice drivers to earn more money by providing incentives to serve their adjoining Rural and Suburban cities. This will enable us to remove the surplus supply in Urban city type and simultaneously reduce the average costs of using Ride Share services in Rural and Suburban city types improving the demand for Ride Sharing Services. 
 
